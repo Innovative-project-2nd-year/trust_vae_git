@@ -36,7 +36,7 @@ TRUST-VAE is a research project that transforms the latent space of a Variationa
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trust-vae.git
+git clone https://github.com/Innovative-project-2nd-year/trust_vae_git
 cd trust-vae
 
 # Install dependencies
