@@ -14,11 +14,11 @@ TRUST-VAE is a research project that transforms the latent space of a Variationa
 
 ## Key Features
 
-- ✅ **Structured Latent Space** - Hierarchical 128-dimensional representation
-- ✅ **Latent Interpretability** - Meaningful latent traversal and control
-- ✅ **Uncertainty Estimation** - Built-in confidence metrics for generated samples
-- ✅ **Task-Aware Training** - Joint optimization with downstream classifier
-- ✅ **Human-in-the-Loop** - Interactive Gradio interface for latent manipulation
+-  **Structured Latent Space** - Hierarchical 128-dimensional representation
+-  **Latent Interpretability** - Meaningful latent traversal and control
+-  **Uncertainty Estimation** - Built-in confidence metrics for generated samples
+-  **Task-Aware Training** - Joint optimization with downstream classifier
+-  **Human-in-the-Loop** - Interactive Gradio interface for latent manipulation
 
 ## Model Performance
 
