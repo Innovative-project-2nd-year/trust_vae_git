@@ -8,11 +8,11 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 TRUST-VAE is a research project that transforms the latent space of a Variational Autoencoder (VAE) into a **structured, interpretable, and uncertainty-aware decision interface** for trustworthy synthetic data generation.
 
-## 🎯 Key Features
+## Key Features
 
 - ✅ **Structured Latent Space** - Hierarchical 128-dimensional representation
 - ✅ **Latent Interpretability** - Meaningful latent traversal and control
@@ -20,7 +20,7 @@ TRUST-VAE is a research project that transforms the latent space of a Variationa
 - ✅ **Task-Aware Training** - Joint optimization with downstream classifier
 - ✅ **Human-in-the-Loop** - Interactive Gradio interface for latent manipulation
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -30,7 +30,7 @@ TRUST-VAE is a research project that transforms the latent space of a Variationa
 | **Latent Dimensions** | 128 |
 | **Training Epochs** | 60 |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
